@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99b44d28-2fa3-450d-b8ac-376948892f9b" name="Changes" comment="mod.1" />
+    <list default="true" id="99b44d28-2fa3-450d-b8ac-376948892f9b" name="Changes" comment="mod.2">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07084fabeefc82b5120f1af8a8f1b29bd1b8c52a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07084fabeefc82b5120f1af8a8f1b29bd1b8c52a" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,14 +21,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "onboarding.tips.debug.path": "F:/Программирование/Intellij IDEA/UFO_signal/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;F:/Программирование/Intellij IDEA/UFO_signal/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,19 +46,28 @@
       <option name="project" value="LOCAL" />
       <updated>1712386520495</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mod.2">
+      <option name="closed" value="true" />
+      <created>1712405401282</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712405401282</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mod.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="mod.1" />
+    <MESSAGE value="mod.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="mod.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Level1.java</url>
-          <line>31</line>
+          <line>1</line>
           <properties class="Level1" method="UFO">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

@@ -1,10 +1,10 @@
 public class Level1 {
  public static int [] UFO (int N, int [] data, boolean octal) {
-        int z;
-        if (octal)
+        int z = 16;
+        if (octal) {
             z = 8;
-        else
-            z = 16;
+        }
+
 
            int i = 0;
            int[] result = new int[N];
